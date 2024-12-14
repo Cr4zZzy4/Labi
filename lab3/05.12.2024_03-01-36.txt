@@ -1,0 +1,9 @@
+05.12.2024 3:01:54: Server started.
+05.12.2024 3:02:00: Received from 127.0.0.1: 10
+05.12.2024 3:02:03: Invalid hex data with odd length: ﻿31303130
+05.12.2024 3:02:11: Message sent: 9
+05.12.2024 3:02:11: Received from 127.0.0.1: 9
+05.12.2024 3:02:13: Message sent: 99
+05.12.2024 3:02:13: Invalid hex data with odd length: ﻿3939
+05.12.2024 3:03:19: Error starting server: Обычно разрешается только одно использование адреса сокета (протокол/сетевой адрес/порт).
+05.12.2024 3:03:25: Message sent: 9986786

@@ -1,0 +1,5 @@
+27.11.2024 23:50:07: Server started.
+27.11.2024 23:50:10: Message sent: Что бы написать
+27.11.2024 23:50:10: Received from client: Что бы написать
+27.11.2024 23:50:22: Message sent: А почему текст не меняется после его написания
+27.11.2024 23:50:22: Error handling client: Could not find any recognizable digits.

@@ -1,0 +1,7 @@
+27.11.2024 23:52:10: Server started.
+27.11.2024 23:52:11: Message sent: ое
+27.11.2024 23:52:11: Received from client: ое
+27.11.2024 23:52:49: Message sent: а дальше где
+27.11.2024 23:52:49: Error handling client: Could not find any recognizable digits.
+27.11.2024 23:56:04: Message sent: а дальше где
+27.11.2024 23:56:07: Error starting server: Обычно разрешается только одно использование адреса сокета (протокол/сетевой адрес/порт).

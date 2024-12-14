@@ -1,0 +1,16 @@
+C:\Users\Ivan\source\lab3(2)\lab3(2)\bin\Debug\net6.0-windows7.0\lab3(2).exe
+C:\Users\Ivan\source\lab3(2)\lab3(2)\bin\Debug\net6.0-windows7.0\lab3(2).deps.json
+C:\Users\Ivan\source\lab3(2)\lab3(2)\bin\Debug\net6.0-windows7.0\lab3(2).runtimeconfig.json
+C:\Users\Ivan\source\lab3(2)\lab3(2)\bin\Debug\net6.0-windows7.0\lab3(2).dll
+C:\Users\Ivan\source\lab3(2)\lab3(2)\bin\Debug\net6.0-windows7.0\lab3(2).pdb
+C:\Users\Ivan\source\lab3(2)\lab3(2)\obj\Debug\net6.0-windows7.0\WindowsFormsApp1.Form1.resources
+C:\Users\Ivan\source\lab3(2)\lab3(2)\obj\Debug\net6.0-windows7.0\lab3(2).csproj.GenerateResource.cache
+C:\Users\Ivan\source\lab3(2)\lab3(2)\obj\Debug\net6.0-windows7.0\lab3(2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\lab3(2)\lab3(2)\obj\Debug\net6.0-windows7.0\lab3(2).AssemblyInfoInputs.cache
+C:\Users\Ivan\source\lab3(2)\lab3(2)\obj\Debug\net6.0-windows7.0\lab3(2).AssemblyInfo.cs
+C:\Users\Ivan\source\lab3(2)\lab3(2)\obj\Debug\net6.0-windows7.0\lab3(2).csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\lab3(2)\lab3(2)\obj\Debug\net6.0-windows7.0\lab3(2).dll
+C:\Users\Ivan\source\lab3(2)\lab3(2)\obj\Debug\net6.0-windows7.0\refint\lab3(2).dll
+C:\Users\Ivan\source\lab3(2)\lab3(2)\obj\Debug\net6.0-windows7.0\lab3(2).pdb
+C:\Users\Ivan\source\lab3(2)\lab3(2)\obj\Debug\net6.0-windows7.0\lab3(2).genruntimeconfig.cache
+C:\Users\Ivan\source\lab3(2)\lab3(2)\obj\Debug\net6.0-windows7.0\ref\lab3(2).dll
